@@ -1,6 +1,6 @@
 # esp8266-website-switches
 
-this is one of the first codes i wrote, just wanna keep history of bad codes
+this been made for some motor, so waiting time is there. waiting time should be much much less if it's not about motors
 
 without ajax
 
